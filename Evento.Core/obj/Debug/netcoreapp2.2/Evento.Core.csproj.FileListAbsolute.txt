@@ -1,0 +1,9 @@
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.deps.json
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.dll
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\bin\Debug\netcoreapp2.2\Evento.Core.pdb
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.csprojAssemblyReference.cache
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.csproj.CoreCompileInputs.cache
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.AssemblyInfoInputs.cache
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.AssemblyInfo.cs
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.dll
+C:\Users\PLKRRAD2\Desktop\EventoAPI\Evento.API\Evento.Core\obj\Debug\netcoreapp2.2\Evento.Core.pdb
