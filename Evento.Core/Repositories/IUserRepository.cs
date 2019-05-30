@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace Evento.Core.Repositories
 {
-    interface IUserRepository
+    public interface IUserRepository
     {
         Task<User> GetAsync(Guid id);
         Task<User> GetAsync(string email);
