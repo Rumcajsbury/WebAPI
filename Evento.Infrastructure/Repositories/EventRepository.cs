@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Evento.Core.Domain;
 using Evento.Core.Repositories;
+using Evento.Core.Domain;
 
 namespace Evento.Infrastructure.Repositories
 {

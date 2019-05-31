@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Evento.Infrastructure.DTO
 {
-    public class EventoDTO
+    public class EventDTO
     {
         public Guid Id { get; set; }
         public string Name { get;  set; }
