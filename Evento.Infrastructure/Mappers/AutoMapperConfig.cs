@@ -9,8 +9,10 @@ namespace Evento.Infrastructure.Mappers
     {
         public static IMapper Initialize()
             => new MapperConfiguration(config => {
-                config.CreateMap<Event, EventDTO>()
+            config.CreateMap<Event, EventDTO>()
                     .ForMember(x => x.TicketCount, m => m.MapFrom(p => p.Tickets.Count()));
+            config.CreateMap<Event, EventDetailsDTO>();
+            config.CreateMap<Ticket, TicketDTO>();
             })
             .CreateMapper();
     }
