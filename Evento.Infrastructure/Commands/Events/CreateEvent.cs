@@ -13,3 +13,4 @@ namespace Evento.Infrastructure.Commands.Events
         public decimal Price { get; set; }
     }
 }
+
